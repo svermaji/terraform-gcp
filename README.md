@@ -1,6 +1,6 @@
 # Terraform
 
-> Will create multiple set of scripts for clarity.
+> This repository contains multiple examples of terraform script for Google Cloud (GCP)
 > Version details:
 >    - OS: Win10 Home
 >    - Terraform: vterraform_1.4.6_windows_386
